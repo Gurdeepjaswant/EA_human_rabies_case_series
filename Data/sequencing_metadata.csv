@@ -1,0 +1,237 @@
+ID,date,Country,Region,District,Latitude,Longitude,Species,Sequencing_date
+SD766,01/09/2020,NTz,Mara,Musoma Urban,-1.544621,33.844015,Domestic dog,14-Apr-21
+SD767,28/09/2020,NTz,Mara,Musoma Urban,-1.544621,33.844015,Domestic Dog,14-Apr-21
+SD806,26/10/2021,NTz,Mara,Butiama,-1.551249,33.955434,Domestic dog,14-Nov-21
+SD810,03/11/2021,NTz,Mara,Tarime,-1.551249,33.955434,Goat,14-Nov-21
+SD816,09/02/2022,NTz,Mara,Serengeti ,-1.685375,33.972315,Domestic Dog,23-Nov-22
+SD821,29/03/2022,NTz,Mara,Serengeti ,-1.851277,34.013583,Domestic Dog,23-Nov-22
+SD782,21/04/2021,NTz,Mara,Rorya,-1.151977,34.020507,Domestic Dog,21-Apr-21
+SD832,16/03/2022,NTz,Mara,Serengeti ,-1.132846,34.04667,Domestic dog,23-Nov-22
+SD834,03/07/2022,NTz,Mara,Rorya,-1.146756,34.051474,Domestic dog,23-Nov-22
+Z00861874,30/08/2021,Kenya,Siaya,Bondo,-0.0593687,34.070337,Canine,06-Dec-21
+Z0083226,24/09/2021,Kenya,Makueni,Kibwezi West,-0.022929853,34.12224665,Domestic dog,06-Dec-21
+Z00861852,06/11/2021,Kenya,Siaya,Rarieda,-0.022929853,34.12224665,Domestic dog,08-Dec-21
+Z00861835,05/02/2022,Kenya,Bondo,Yimbo East,-0.0597567,34.1457683,Domestic dog,14-Sep-22
+Z00861836,31/01/2022,Kenya,Bondo,Yimbo East,-0.0511755,34.1472944,Domestic dog,14-Sep-22
+Z00861815,01/05/2022,Kenya,Alego usonga,West Alego,0.07509,34.1514466,Domestic dog,14-Sep-22
+Z00861854,28/10/2021,Kenya,Siaya,Bondo,-0.05166,34.15811,Canine,08-Dec-21
+SD830,18/03/2022,NTz,Mara,Rorya,-1.189745,34.181964,Domestic dog,23-Nov-22
+SD831,03/05/2022,NTz,Mara,Rorya,-1.189745,34.181964,Domestic dog,23-Nov-22
+Z00861829,26/02/2022,Kenya,Bondo,Central Sakwa,-0.1389228,34.1935759,Domestic dog,14-Sep-22
+Z00861834,10/02/2022,Kenya,Alego usonga,West Alego,0.0864564,34.1967015,Domestic dog,14-Sep-22
+Z00861816,27/04/2022,Kenya,Alego usonga,Central Alego,0.0887153,34.1981338,Domestic dog,14-Sep-22
+Z00861824,18/03/2022,Kenya,Bondo,Yimbo East,0.0876167,34.1993533,Domestic dog,14-Sep-22
+2021153276,29/08/2022,Kenya,Bondo,South West Sakwa,-0.112238,34.201307,Human,14-Sep-22
+Z00861843,09/12/2021,Kenya,Siaya,Yimbo East,-0.032877,34.204205,Domestic Dog,31-Jan-22
+Z00861847,11/11/2021,Kenya,Siaya,Bondo,-0.1179414,34.2079476,Bovine,31-Jan-22
+Z00861826,06/03/2022,Kenya,Bondo,West Sakwa,-0.0935193,34.2223259,Domestic dog,14-Sep-22
+Z0083175,16/07/2019,Kenya,Siaya,Alego Usonga,0.08863336,34.22519061,Bovine,07-Aug-19
+Z00861872,31/08/2021,Kenya ,Siaya,Alego Usonga,0.08863336,34.22519061,Bovine,06-Dec-21
+Z00861870,05/09/2021,Kenya,Siaya,Alego Usonga,0.08863336,34.22519061,Domestic dog,06-Dec-21
+Z00861858,15/10/2021,Kenya,Siaya,Alego Usonga,0.08863336,34.22519061,Bovine,08-Dec-21
+Z00861831,17/02/2022,Kenya,Alego usonga,Central Alego,0.0935377,34.2324974,Bovine,14-Sep-22
+Z0826361,03/10/2017,Kenya,Siaya,Bondo,-0.100337,34.275499,Ovine,07-Aug-19
+Z081388851,07/08/2019,Kenya,Siaya,Bondo,-0.100337,34.275499,Domestic dog,07-Aug-19
+Z00861877,11/08/2021,Kenya,Siaya,Bondo,-0.100337,34.275499,Unknown,08-Dec-21
+Z00861875,16/08/2021,Kenya,Siaya,Bondo,-0.100337,34.275499,Domestic dog,06-Dec-21
+Z00861867,05/09/2021,Kenya ,Siaya,Bondo,-0.100337,34.275499,Domestic dog,06-Dec-21
+Z00861869,05/09/2021,Kenya ,Siaya,Bondo,-0.100337,34.275499,Domestic dog,06-Dec-21
+Z00861865,11/09/2021,Kenya,Siaya,Bondo,-0.100337,34.275499,Domestic dog,08-Dec-21
+Z00861860,12/10/2021,Kenya,Siaya,Bondo,-0.100337,34.275499,Domestic dog,08-Dec-21
+Z00861855,26/10/2021,Kenya,Siaya,Bondo,-0.100337,34.275499,Domestic dog,08-Dec-21
+Z00861850,03/11/2021,Kenya,Siaya,Bondo,-0.100337,34.275499,Domestic dog,08-Dec-21
+Z00861851,03/11/2021,Kenya,Siaya,Bondo,-0.100337,34.275499,Domestic dog,08-Dec-21
+Z00861853,04/11/2021,Kenya,Siaya,Bondo,-0.100337,34.275499,Domestic dog,08-Dec-21
+Z0826447,11/11/2021,Kenya,Siaya,Bondo,-0.100337,34.275499,Bovine,31-Jan-22
+Z00861838,14/01/2022,Kenya,Siaya,Bondo,-0.100337,34.275499,Domestic dog,31-Jan-22
+Z00861837,18/01/2022,Kenya,Siaya,Bondo,-0.100337,34.275499,Domestic dog,31-Jan-22
+Z00861811,23/05/2022,Kenya,Alego usonga,Siaya Township,0.0514289,34.2779851,Domestic dog,14-Sep-22
+Z00861810,25/05/2022,Kenya,Alego usonga,Siaya Township,0.0555359,34.2825282,Domestic dog,14-Sep-22
+Z00861841,20/12/2021,Kenya,Siaya,South East Alego,-0.0594856,34.2839401,Domestic dog,31-Jan-22
+Z00861842,20/12/2021,Kenya,Siaya,South East Alego,-0.0594856,34.2839401,Domestic dog,31-Jan-22
+Z00861871,02/09/2021,Kenya,Siaya,Alego Usonga,-0.0606193,34.2859671,Bovine,08-Dec-21
+Z00861862,01/10/2021,Kenya,Siaya,Alego Usonga,-0.0606193,34.2859671,Domestic Dog,08-Dec-21
+Z00865570,21/07/2022,Kenya,Alego usonga,South East Alego,0.0109183,34.2870951,Domestic dog,14-Sep-22
+Z00861839,17/12/2021,Kenya,Siaya,Siaya,-0.062629,34.287807,Domestic Dog,31-Jan-22
+Z00861840,22/12/2021,Kenya,Siaya,Siaya,-0.062629,34.287807,Domestic Dog,31-Jan-22
+Z00861823,20/03/2022,Kenya,Rarieda,West Uyoma,-0.2885262,34.305724,Domestic dog,14-Sep-22
+Z00861832,13/02/2022,Kenya,Alego usonga,Siaya Township,0.0555358,34.3062222,Domestic dog,14-Sep-22
+Z00861820,01/04/2022,Kenya,Rarieda,West Uyoma,-0.2553002,34.3097779,Domestic dog,14-Sep-22
+Z08151377,18/08/2017,Kenya,Siaya,Rarieda,-0.358002251,34.32245196,Domestic dog,07-Aug-19
+Z00861808,03/06/2022,Kenya,Ugunja,Ugunja,0.1992256,34.3392067,Domestic dog,14-Sep-22
+Z00861807,09/06/2022,Kenya,Rarieda,North Uyoma,-0.2436026,34.3405267,Domestic dog,14-Sep-22
+SD793,11/03/2021,NTz,Mara,Serengeti ,-1.79567,34.344089,Domestic Dog,21-Apr-21
+SD716,18/05/2018,NTz,Mara,Serengeti ,-1.630177,34.3521,Domestic dog,14-Nov-21
+Z00865561,28/06/2022,Kenya,Rarieda,West Asembo,-0.1394914,34.355399,Domestic dog,14-Sep-22
+Z00865566,14/07/2022,Kenya,Rarieda,West Asembo,-0.1393568,34.3556882,Domestic dog,14-Sep-22
+SD802,23/07/2021,NTz,Mara,Serengeti ,-1.742939,34.35651,Domestic dog,14-Nov-21
+SD740,15/02/2019,NTz,Mara ,Serengeti ,-1.6332469,34.3571239,Domestic Dog,06-Sep-19
+SD813,07/12/2021,NTz,Mara,Serengeti ,-1.724149,34.359319,Domestic Dog,10-Mar-22
+Z00865564,13/07/2022,Kenya,Rarieda,West Asembo,-0.1400055,34.3601107,Domestic dog,14-Sep-22
+Z00861809,28/05/2022,Kenya,Ugunja,Sigomre,0.2023327,34.3630015,Bovine,14-Sep-22
+Z00865571,23/07/2022,Kenya,Rarieda,East Asembo,-0.0726057,34.3791578,Domestic dog,14-Sep-22
+Z00865563,12/07/2022,Kenya,Rarieda,East Asembo,-0.1825339,34.3808759,Domestic dog,14-Sep-22
+Z00861827,03/03/2022,Kenya,Rarieda,East Asembo,-0.081198,34.3879835,Domestic dog,14-Sep-22
+SD809,30/10/2021,NTz,Mara,Tarime,-1.21343,34.389903,Domestic dog,14-Nov-21
+SD789,16/12/2020,NTz,Mara,Serengeti ,-1.594604,34.400336,Domestic Dog,21-Apr-21
+SD823,09/04/2022,NTz,Mara,Serengeti ,-1.808071,34.402064,Domestic Dog,23-Nov-22
+Z00865562,29/06/2022,Kenya,Gem,South Gem,-0.0656039,34.405968,Domestic dog,14-Sep-22
+SD837,20/06/2022,NTz,Mara,Serengeti ,-1.719235,34.411862,Domestic Dog,23-Nov-22
+Z08151242,18/08/2017,Kenya,Siaya,Rarieda,-0.15795,34.41227,Bovine,07-Aug-19
+Z0826475,21/09/2017,Kenya,Siaya,Rarieda,-0.157945443,34.41227149,Domestic dog,07-Aug-19
+Z0826363,16/11/2017,Kenya,Siaya,Rarieda,-0.157945443,34.41227149,Domestic dog,07-Aug-19
+Z0826362,22/08/2019,Kenya,Siaya,Rarieda,-0.157945443,34.41227149,Domestic dog,07-Aug-19
+Z00861864,21/09/2021,Kenya,Siaya,Rarieda,-0.157945443,34.41227149,Domestic dog,08-Dec-21
+Z00861863,26/09/2021,Kenya,Siaya,Rarieda,-0.157945443,34.41227149,Domestic dog,08-Dec-21
+Z00861859,14/10/2021,Kenya,Siaya,Rarieda,-0.157945443,34.41227149,Domestic dog,08-Dec-21
+Z00861846,23/11/2021,Kenya,Siaya,Rarieda,-0.157945443,34.41227149,Ovine,31-Jan-22
+Z00861845,25/11/2021,Kenya,Siaya,Rarieda,-0.157945443,34.41227149,Bovine,31-Jan-22
+Z00861844,02/12/2021,Kenya,Siaya,Rarieda,-0.157945443,34.41227149,Bovine,31-Jan-22
+Z00861806,16/06/2022,Kenya,Gem,South Gem,-0.0475245,34.4200927,Domestic dog,14-Sep-22
+SD747,19/06/2019,NTz,Mara ,Serengeti ,-1.52823146,34.44576024,Domestic Dog,06-Sep-19
+Z00865560,25/06/2022,Kenya,Gem,North Gem,0.1134189,34.451805,Domestic dog,14-Sep-22
+Z0826253,27/02/2018,Kenya,Siaya,Gem,0.077195474,34.47023396,Human,07-Aug-19
+SD746,24/06/2019,NTz,Mara ,Serengeti ,-1.524610645,34.48028966,Domestic dog,06-Sep-19
+SD749,24/06/2019,NTz,Mara ,Serengeti ,-1.524610645,34.48028966,Domestic dog,06-Sep-19
+SD751,2019-06-31,NTz,Mara ,Serengeti ,-1.524610645,34.48028966,Domestic dog,13-Nov-19
+SD743,22/03/2019,NTz,Mara ,Serengeti ,-1.730158674,34.4964275,Domestic dog,06-Sep-19
+SD761,02/07/2020,NTz,Mara,Serengeti ,-1.727248,34.503758,Domestic dog,14-Nov-21
+SD735,23/09/2020,NTz,Mara,Serengeti ,-1.819467,34.503827,Domestic dog,14-Nov-21
+SD825,29/04/2022,NTz,Mara,Serengeti ,-1.87692,34.506532,Domestic Dog,23-Nov-22
+SD812,21/12/2021,NTz,Mara,Serengeti ,-1.878369,34.515877,Domestic dog,10-Mar-22
+SD817,26/01/2022,NTz,Mara,Serengeti ,-1.918005,34.520713,Domestic Dog,10-Mar-22
+SD759,19/11/2019,NTz,Mara,Serengeti ,-1.737298,34.575145,Domestic Dog,14-Nov-21
+SD753,20/11/2019,NTz,Mara ,Serengeti ,-1.737298421,34.57514548,Domestic dog,14-Apr-21
+SD827,06/05/2022,NTz,Mara,Serengeti ,-1.826998,34.615236,Domestic Dog,23-Nov-22
+SD804,26/10/2021,NTz,Mara,Serengeti ,-1.82378,34.622,Domestic dog,14-Nov-21
+SD792,04/03/2021,NTz,Mara,Serengeti ,-1.856904,34.639337,Domestic Dog,21-Apr-21
+SD828,15/05/2022,NTz,Mara,Serengeti ,-1.899696,34.647253,Cow,23-Nov-22
+SD835,28/05/2022,NTz,Mara,Serengeti ,-1.899532,34.647361,Cow,23-Nov-22
+SD826,30/04/2022,NTz,Mara,Serengeti ,-1.906932,34.647894,Domestic Dog,23-Nov-22
+SD744,27/03/2019,NTz,Mara ,Serengeti ,-1.840844136,34.66041726,Domestic dog,06-Sep-19
+SD745,27/03/2019,NTz,Mara ,Serengeti ,-1.840844136,34.66041726,Domestic dog,06-Sep-19
+SD755,14/04/2021,NTz,Mara,Serengeti ,-1.840844136,34.66041726,Domestic Dog,14-Apr-21
+SD756,14/04/2021,NTz,Mara,Serengeti ,-1.840844136,34.66041726,Domestic dog,14-Apr-21
+SD785,14/04/2021,NTz,Mara,Serengeti ,-1.840844136,34.66041726,Cat,14-Apr-21
+SD736,01/06/2020,NTz,Mara,Serengeti ,-1.840833,34.66404,Domestic Dog,14-Nov-21
+SD763,02/07/2020,NTz,Mara,Serengeti ,-1.840833,34.66404,Domestic dog,14-Nov-21
+SD790,13/01/2021,NTz,Mara,Serengeti ,-1.832079,34.666014,Jackal,21-Apr-21
+SD738,24/12/2018,NTz,Mara ,Serengeti ,-1.835733354,34.6816182,Domestic dog,06-Sep-19
+SD750,19/11/2019,NTz,Mara,Serengeti ,-1.842388,34.682603,Cat,07-Aug-19
+SD737,30/05/2020,NTz,Mara,Serengeti ,-1.824592,34.721631,Domestic dog,14-Nov-21
+SD818,31/01/2022,NTz,Mara,Serengeti ,-1.885636,34.777171,Domestic Dog,10-Mar-22
+SD799,21/06/2021,NTz,Mara,Serengeti ,-1.770879,34.779912,Jackal,21-Apr-21
+SD760,02/07/2020,NTz,Mara,Serengeti ,-1.770711,34.787083,Domestic dog,14-Nov-21
+2011100186,12/09/2017,Kenya,Kisumu,Kisumu East ,-0.025538055,34.79142003,Domestic dog,07-Aug-19
+SD807,28/10/2021,NTz,Mara,Serengeti ,-1.871526,34.798132,Honey badger,14-Nov-21
+SD754,06/01/2020,NTz,Mara,Serengeti ,-1.86736,34.798751,Domestic Dog,14-Apr-21
+SD815,21/12/2021,NTz,Mara,Serengeti ,-1.798441,34.800663,Domestic Dog,10-Mar-22
+SD741,30/01/2019,NTz,Mara ,Serengeti ,-1.7861379,34.8026443,Domestic dog,06-Sep-19
+SD712,18/05/2018,NTz,Mara,Serengeti ,-1.864792,34.802878,Domestic dog,14-Nov-21
+SD801,18/07/2021,NTz,Mara,Serengeti ,-1.814434,34.805558,Domestic dog,14-Nov-21
+SD791,30/11/2020,NTz,Mara,Serengeti ,-1.806927,34.805666,Jackal,21-Apr-21
+SD846,03/10/2022,NTz,Arusha,Ngorongoro,-3.060711,35.830041,Human,23-Nov-22
+MR008,13/11/2018,NTz,Morogoro ,Ulanga,-8.87886,36.0876,Goat,13-Nov-19
+MR009,09/02/2019,NTz,Morogoro ,Ulanga,-8.87886,36.0876,Domestic Dog,13-Nov-19
+RB002,01/09/2019,NTz,Morogoro/Kennedy,Ulanga,-8.87886,36.0876,Domestic dog,13-Nov-19
+RB003,01/09/2019,NTz,Morogoro/Kennedy,Ulanga,-8.87886,36.0876,Bovine,13-Nov-19
+MR005,13/02/2020,NTz,Morogoro ,Ulanga,-8.87886,36.0876,Domestic dog,10-Mar-22
+MR001,31/03/2020,NTz,Morogoro ,Ulanga,-8.87886,36.0876,Domestic dog,10-Mar-22
+MR006,08/05/2020,NTz,Morogoro ,Ulanga,-8.87886,36.0876,Domestic dog,10-Mar-22
+NAC1015,14/08/2022,NTz,Lindi,Nachingwea,-10.33562,36.559167,Domestic Dog,23-Nov-22
+KD1004,11/02/2022,NTz,Morogoro ,Kilombero,-8.400762,36.559167,Domestic Dog,23-Nov-22
+IFA1023,23/07/2022,NTz,Morogoro ,Ifakara,-8.400762,36.559167,Domestic Dog,23-Nov-22
+KIL1022,10/08/2022,NTz,Morogoro ,Kilombero,-8.400762,36.559167,Domestic Dog,23-Nov-22
+IFA1021,11/08/2022,NTz,Morogoro ,Ifakara,-8.400762,36.559167,Domestic Dog,23-Nov-22
+IFA1013,08/09/2022,NTz,Morogoro ,Ifakara,-8.400762,36.559167,Domestic Dog,23-Nov-22
+MAL1020,17/04/2022,NTz,Mtwara,Malinyi,-9.053893,36.614229,Domestic Dog,23-Nov-22
+MAL1009,09/05/2022,NTz,Morogoro ,Malinyi,-9.053893,36.614229,Domestic dog,23-Nov-22
+MAL1008,23/07/2022,NTz,Morogoro ,Malinyi,-9.053893,36.614229,Domestic Dog,23-Nov-22
+RB001,01/09/2019,NTz,Arusha,Arusha urban,-3.386925,36.682995,Domestic dog,13-Nov-19
+RB004,14/04/2021,NTz,Arusha,Arusha urban,-3.386925,36.682995,Domestic Dog,14-Apr-21
+AR02,21/12/2021,NTz,Arusha,Arusha urban,-3.386925,36.682995,Domestic dog,10-Mar-22
+AR03,10/03/2022,NTz,Arusha,Arusha urban,-3.386925,36.682995,Domestic Dog,10-Mar-22
+Z0826752,11/07/2018,Kenya,Nairobi,Kibra,-1.311025535,36.80389662,Bovine,07-Aug-19
+2010818843,12/03/2013,Kenya,Nairobi,Starehe,-1.283153766,36.82423379,Human,07-Aug-19
+MR007,04/05/2021,NTz,Morogoro ,Kilosa,-6.834274,36.991712,Domestic dog,10-Mar-22
+Z0829333,03/06/2022,Kenya,Kilome ,Mukaa,-1.8189811,37.3369929,Bovine,14-Sep-22
+HB002,16/09/2019,NTz,Kilimanjaro,Moshi,-2.97557,37.3581,Human,21-Apr-21
+HS001,16/09/2019,NTz,Kilimanjaro,Moshi,-2.97557,37.3581,Human,21-Apr-21
+Z0829313,22/08/2022,Kenya,Kaiti,Kikoko,-1.798023,37.3693556,Domestic dog,14-Sep-22
+Z0829335,16/05/2022,Kenya,Makueni,Kavuthu,-2.0027478,37.4159767,Domestic dog,14-Sep-22
+Z0083214,02/07/2021,Kenya,Makueni,Mbooni East,-1.667077,37.4615,Caprine,06-Dec-21
+Z0083231,09/08/2021,Kenya,Makueni,Mbooni East,-1.667077,37.4615,Domestic dog,08-Dec-21
+Z0083222,19/08/2021,Kenya,Makueni,Mbooni,-1.667077,37.4615,Caprine,08-Dec-21
+Z0829323,05/07/2022,Kenya,Makueni,Kyeemundu,-1.9545825,37.477391,Caprine,14-Sep-22
+Z0829340,20/04/2022,Kenya,Kibwezi West,Emali,-2.0574213,37.5267921,Domestic dog,14-Sep-22
+2011100075,13/07/2018,Kenya,Makueni,Makueni,-1.799008071,37.59439993,Bovine,07-Aug-19
+Z0083186,06/08/2018,Kenya,Makueni,Makueni ,-1.799008071,37.59439993,Bovine,07-Aug-19
+02196160414A,07/08/2019,Kenya,Makueni,Makueni,-1.799008071,37.59439993,Domestic dog,07-Aug-19
+Z0083197,12/03/2021,Kenya ,Makueni,Mbooni,-1.799008071,37.59439993,Domestic dog,06-Dec-21
+Z0083198,30/03/2021,Kenya,Makueni,Mbooni,-1.799008071,37.59439993,Domestic dog,06-Dec-21
+Z0083205,13/04/2021,Kenya ,Makueni,Makueni,-1.799008071,37.59439993,Domestic dog,06-Dec-21
+Z0083200,26/07/2021,Kenya,Makueni,Makueni,-1.799008071,37.59439993,Domestic dog,08-Dec-21
+Z0083220,05/08/2021,Kenya,Makueni,Makueni,-1.799008071,37.59439993,Domestic dog,08-Dec-21
+Z0083218,10/08/2021,Kenya,Makueni,Makueni,-1.799008071,37.59439993,Domestic dog,08-Dec-21
+Z0083219,10/08/2021,Kenya,Makueni,Makueni,-1.799008071,37.59439993,Feline,06-Dec-21
+Z0083221,11/08/2021,Kenya,Makueni,Makueni,-1.799008071,37.59439993,Domestic dog,08-Dec-21
+Z0083201,26/08/2021,Kenya,Makueni,Makueni,-1.799008071,37.59439993,Caprine,06-Dec-21
+Z0083228,01/09/2021,Kenya,Makueni,Makueni,-1.799008071,37.59439993,Domestic dog,08-Dec-21
+Z0083229,01/09/2021,Kenya ,Makueni,Makueni,-1.799008071,37.59439993,Domestic dog,06-Dec-21
+Z0083223,02/09/2021,Kenya ,Makueni,Makueni,-1.799008071,37.59439993,Caprine,06-Dec-21
+Z0083224,03/09/2021,Kenya ,Makueni,Makueni,-1.799008071,37.59439993,Domestic dog,06-Dec-21
+Z0083239,13/09/2021,Kenya,Makueni,Makueni,-1.799008071,37.59439993,Bovine,06-Dec-21
+Z0083225,27/09/2021,Kenya,Makueni,Makueni,-1.799008071,37.59439993,Domestic dog,06-Dec-21
+Z0829341,23/04/2022,Kenya,Makueni,Muvau,-1.8823492,37.6005636,Domestic dog,14-Sep-22
+Z0083192,17/12/2020,Kenya,Makueni,makueni,-1.786495,37.631107,Domestic dog,08-Dec-21
+Z0083215,21/05/2021,Kenya,Makueni,makueni,-1.786495,37.631107,Domestic dog,08-Dec-21
+Z0083236,13/10/2021,Kenya,Makueni,makueni,-1.786495,37.631107,Domestic dog,08-Dec-21
+Z0083203,18/10/2021,Kenya,Makueni,makueni,-1.786495,37.631107,Domestic dog,08-Dec-21
+Z0083202,19/10/2021,Kenya,Makueni,makueni,-1.786495,37.631107,Domestic Dog,08-Dec-21
+Z0083245,05/11/2021,Kenya,Makueni,makueni,-1.786495,37.631107,Domestic dog,08-Dec-21
+Z0083234,15/11/2021,Kenya,Makueni,makueni,-1.786495,37.631107,Domestic Dog,08-Dec-21
+Z0083235,29/11/2021,Kenya,Makueni,makueni,-1.786495,37.631107,Domestic dog,08-Dec-21
+Z0083252,29/12/2021,Kenya,Makueni,makueni,-1.786495,37.631107,Goat,31-Jan-22
+Z0083253,30/12/2021,Kenya,Makueni,makueni,-1.786495,37.631107,Domestic dog,31-Jan-22
+Z0083263,25/02/2022,Kenya,Makueni,Muvau,-1.904419027,37.64380591,Domestic dog,14-Sep-22
+Z0083261,01/03/2022,Kenya,Makueni,Muvau,-1.8516625,37.6547936,Caprine,14-Sep-22
+MR002,11/03/2021,NTz,Morogoro ,Morogoro urban ,-6.830373,37.670589,Domestic dog,10-Mar-22
+MR003,07/05/2021,NTz,Morogoro ,Morogoro urban ,-6.830373,37.670589,Domestic dog,10-Mar-22
+MR004,07/05/2021,NTz,Morogoro ,Morogoro urban ,-6.830373,37.670589,Domestic dog,10-Mar-22
+Z0829334,04/06/2022,Kenya,Makueni,Kwa Kavisi,-1.9998655,37.7064121,Domestic dog,14-Sep-22
+Z00832443,18/11/2021,Kenya,Makueni,Kathonzweni,-1.90833346,37.7243881,Domestic dog,08-Dec-21
+Z0829325,15/06/2022,Kenya,Makueni,Kathonzweni,-1.8841657,37.7251635,Domestic dog,14-Sep-22
+Z0083216,18/07/2021,Kenya,Makueni,Kathonzweni,-1.9131016,37.7317411,Bovine,08-Dec-21
+Z0083227,27/09/2021,Kenya,Makueni,Kathonzweni,-1.9131016,37.7317411,Domestic dog,06-Dec-21
+Z0083237,01/10/2021,Kenya,Makueni,Kathonzweni,-1.9131016,37.7317411,Domestic dog,08-Dec-21
+Z0083243,18/11/2021,Kenya,Makueni,Kathonzweni,-1.9131016,37.7317411,Domestic dog,31-Jan-22
+Z00832441,19/11/2021,Kenya,Makueni,Kathonzweni,-1.9131016,37.7317411,Domestic dog,08-Dec-21
+Z00832442,21/11/2021,Kenya,Makueni,Kathonzweni,-1.9131016,37.7317411,Bovine,08-Dec-21
+Z0083240,04/12/2021,Kenya,Makueni,Kathonzweni,-1.9131016,37.7317411,Domestic dog,31-Jan-22
+Z0083262,25/02/2022,Kenya,Makueni,Kathonzweni,-1.900881571,37.73942683,Domestic dog,14-Sep-22
+Z0829344,30/03/2022,Kenya,Makueni,Mbuvo,-1.9667191,37.7664408,Caprine,14-Sep-22
+Z0829337,10/05/2022,Kenya,Makueni,Mbuvo,-2.0353289,37.769492,Domestic dog,14-Sep-22
+MORDC1011,01/08/2022,NTz,Morogoro ,Morogoro urban ,-7.195774,37.842235,Donkey,23-Nov-22
+Z0083249,14/02/2022,Kenya,Makueni,Kanthuni,-1.851837756,37.88033534,Caprine,14-Sep-22
+Z0083265,14/03/2021,Kenya,Makueni,Kithuki,-1.968343151,37.88137117,Feline,14-Sep-22
+Z0083204,17/08/2021,Kenya,Makueni,Kibwezi East,-2.410524,37.967847,Domestic dog,08-Dec-21
+Z0083233,24/09/2021,Kenya ,Makueni,Kibwezi East,-2.410524,37.967847,Domestic dog,06-Dec-21
+Z0829343,12/04/2022,Kenya,Kibwezi East,Nzalubani,-2.5938617,38.0650083,Caprine,14-Sep-22
+LN001,10/03/2021,NTz,Lindi,Ruangwa,-10.04001,38.555999,Domestic dog,10-Mar-22
+NAC1014,14/08/2022,NTz,Lindi,Nachingwea,-10.33562,38.692707,Domestic Dog,23-Nov-22
+NAC1018,15/04/2022,NTz,Lindi,Nachingwea,-10.212662,38.760241,Jackal,23-Nov-22
+NAC1017,24/03/2022,NTz,Lindi,Nachingwea,-10.309751,38.776601,Jackal,23-Nov-22
+NAC1025,14/08/2022,NTz,Lindi,Nachingwea,-10.413398,38.777494,Domestic dog,23-Nov-22
+MAS1016,16/03/2022,NTz,Morogoro ,Masasi,-10.801285,38.895829,Jackal,23-Nov-22
+LN004,21/06/2018,NTz,Lindi,Mtama,-10.300802,39.364712,Domestic dog,10-Mar-22
+LN006,20/07/2021,NTz,Lindi,Mtama,-10.300802,39.364712,Domestic dog,10-Mar-22
+LN003,05/11/2021,NTz,Lindi,Mtama,-10.300802,39.364712,Fox,10-Mar-22
+LN002,16/11/2021,NTz,Lindi,Mtama,-10.300802,39.364712,Fox,10-Mar-22
+LN007,06/12/2021,NTz,Lindi,Mtama,-10.300802,39.364712,Domestic dog,10-Mar-22
+MT001,21/11/2020,NTz,Mtwara,Tandahimba,-10.738551,39.569184,Domestic dog,10-Mar-22
+MT004,10/03/2022,NTz,Mtwara,Tandahimba,-10.738551,39.569184,Jackal,10-Mar-22
+MT005,10/03/2022,NTz,Mtwara,Tandahimba,-10.738551,39.569184,Jackal,10-Mar-22
+TAN1019,11/04/2022,NTz,Lindi,Tandahimba,-10.789479,39.888254,Jackal,23-Nov-22
+MT006,22/06/2018,NTz,Mtwara,Rural,-10.311224,40.175981,Domestic dog,14-Apr-21
+SD734,19/11/2018,NTz,Mara,Serengeti ,-1.828115,34.708036,Domestic dog,14-Nov-21
+SD764,14/11/2021,NTz,Mara,Serengeti ,,,,14-Nov-21

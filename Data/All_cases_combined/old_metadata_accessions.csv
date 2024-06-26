@@ -1,0 +1,116 @@
+Sequence_ID,Original_reference,Country,Location,Host_species,Lineage,Year of sample collection,Genomic_coverage,Genbank_number
+2011100176,This study,Kenya,Muvuti,Livestock: cow,Cosmopolitan AF1b_F1,2018,71.05,
+2021153276,This study,Kenya,Bondo,Human,Cosmopolitan AF1a_C1,2022,94.24,OR045927
+HS001,This study,Tanzania,Moshi rural,Human,Cosmopolitan AF1b_A1.1,2019,97.49,OR045928
+KR906735,,Tanzania,Ulanga,Domestic dog,Cosmopolitan AF1b_A1,2008,,
+KR906736,,Tanzania,Ulanga,Domestic dog,Cosmopolitan AF1b_A1,2008,,
+KR906741,,Tanzania,Ngorongoro,Domestic dog,Cosmopolitan AF1b_A1.1.2,2003,,
+KR906748,,Tanzania,Chake Chake,Domestic dog,Cosmopolitan_A1.2,2010,,
+KR906749,,Tanzania,Chake Chake,Domestic dog,Cosmopolitan AF1b_A1.1.2,2010,,
+KR906752,,Tanzania,Kati,Domestic dog,Cosmopolitan_A1.2,2011,,
+KR906753,,Tanzania,Newala,Unknown,Cosmopolitan AF1b_A1.1.2,2011,,
+KR906761,,Tanzania,Morogoro,Domestic dog,Cosmopolitan AF1b_A1.1.2,2010,,
+KR906762,,Tanzania,Morogoro,Unknown,Cosmopolitan AF1b_A1.1.2,2010,,
+KR906763,,Tanzania,Ulanga,Livestock: pig,Cosmopolitan AF1b_A1,2010,,
+KR906764,,Tanzania,Kilombero,Livestock: cow,Cosmopolitan AF1b_A1,2010,,
+KR906765,,Tanzania,Kilombero,Livestock: cow,Cosmopolitan AF1b_A1,2010,,
+KR906766,,Tanzania,Chake Chake,Domestic dog,Cosmopolitan AF1b_A1,2010,,
+KR906767,,Tanzania,Serengeti,Domestic dog,Cosmopolitan AF1b_A1.1.2,2011,,
+KR906775,,Tanzania,Serengeti,Domestic dog,Cosmopolitan AF1b_A1.1,2011,,
+KY210275,,Tanzania,Serengeti,Livestock: cow,Cosmopolitan AF1b_A1.1,2013,,
+MN726805,,Kenya,Makeuni ,Ovis aries,Cosmopolitan AF1a_A1.1,2017,,
+MN726806,,Tanzania,Serengeti,Domestic dog,Cosmopolitan_A1.2,2017,,
+MN726810,,Kenya,Seme,Homo sapiens,Cosmopolitan AF1a_A1.1,2015,,
+MN726812,,Kenya,Rarieda,Canis familiaris,Cosmopolitan AF1a_A1.1,2017,,
+MN726813,,Tanzania,Micheweni,Domestic dog,Cosmopolitan AF1b_A1,2017,,
+MN726819,,Kenya,Aghakhan,Homo sapiens,Cosmopolitan AF1a_A1.1,2013,,
+MN726830,,Kenya,Ugunja,Bovine,Cosmopolitan AF1a_A1.1,2018,,
+MR001,This study,Tanzania,Ulanga,Domestic dog,Cosmopolitan AF1b_A1,2020,97.86,OR045929
+MR005,This study,Tanzania,Ulanga,Domestic dog,Cosmopolitan AF1b_A1,2020,97.83,OR045930
+MR006,This study,Tanzania,Ulanga,Domestic dog,Cosmopolitan AF1b_A1,2020,97.75,OR045931
+MR008,This study,Tanzania,Ulanga,Domestic dog,Cosmopolitan AF1b_A1,2018,97.82,OR045932
+MR009,This study,Tanzania,Ulanga,Domestic dog,Cosmopolitan AF1b_A1,2018,97.68,OR045933
+RAB12001,,Tanzania,Wete,Domestic dog,Cosmopolitan_A1.2,2012,,OR045934
+RB001,This study,Tanzania,Serengeti,Domestic dog,Cosmopolitan AF1b_A1.1,2019,98.03,OR045935
+RB002,This study,Tanzania,Serengeti,Domestic dog,Cosmopolitan AF1b_A1,2020,97.86,OR045936
+RB003,This study,Tanzania,Serengeti,Livestock: cow,Cosmopolitan AF1b_A1,2020,97.83,OR045937
+RB004,This study,Tanzania,Arusha urban,Domestic dog,Cosmopolitan AF1b_A1.1,2020,97.97,OR045938
+SD575,This study,Tanzania,Serengeti,Domestic dog,Cosmopolitan_A1.2,2016,,OR045939
+SD703,This study,Tanzania,Serengeti,Domestic dog,Cosmopolitan AF1b_A1.1.2,2017,,OR045940
+SD738,This study,Tanzania,Serengeti,Domestic dog,Cosmopolitan AF1b_A1.1,2018,88.96,OR045941
+SD741,This study,Tanzania,Serengeti,Domestic dog,Cosmopolitan AF1b_A1.1,2019,97.69,OR045942
+SD743,This study,Tanzania,Serengeti,Domestic dog,Cosmopolitan AF1b_A1.1,2019,97.42,OR045943
+SD744,This study,Tanzania,Serengeti,Domestic dog,Cosmopolitan AF1b_A1.1,2019,95.28,OR045944
+SD745,This study,Tanzania,Serengeti,Domestic dog,Cosmopolitan_A1.2,2019,80.35,OR045945
+SD751,This study,Tanzania,Serengeti,Domestic dog,Cosmopolitan AF1b_A1.1,2019,98.01,OR045946
+SD846,This study,Tanzania,Arusha,Human,Cosmopolitan AF1b_F1,2022,97.63,OR045947
+SUB7109,,Tanzania,Serengeti,Livestock: donkey,Cosmopolitan AF1b_A1.1,2015,,OR045948
+SUB7127,,Tanzania,Serengeti,Domestic dog,Cosmopolitan AF1b_A1.1,2015,,OR045949
+SUB7128,,Tanzania,Serengeti,Domestic dog,Cosmopolitan AF1b_A1.1,2015,,OR045950
+Z0083192,This study,Kenya,makueni,Domestic dog,Cosmopolitan AF1b_F1,2020,93.22,OR045951
+Z0083204,This study,Kenya,Kibwezi East,Domestic dog,Cosmopolitan AF1b_F1,2021,95.66,OR045952
+Z0083216,This study,Kenya,Kathonzweni,Livestock: cow,Cosmopolitan AF1b_F1,2021,97.75,OR045953
+Z0083223,This study,Kenya ,Makueni,Livestock: goat,Cosmopolitan AF1b_F1,2021,97.89,OR045954
+Z0083226,This study,Kenya,Kibwezi West,Domestic dog,Cosmopolitan AF1b_F1,2021,97.91,OR045955
+Z0083233,This study,Kenya ,Kibwezi East,Domestic dog,Cosmopolitan AF1b_F1,2021,97.80,OR045956
+Z0083240,This study,Kenya,Kathonzweni,Domestic dog,Cosmopolitan AF1b_F1,2021,98.00,OR045957
+Z0083243,This study,Kenya,Kathonzweni,Domestic dog,Cosmopolitan AF1b_F1,2021,98.00,OR045958
+Z00832443,This study,Kenya,Makueni,Domestic dog,Cosmopolitan AF1b_F1,2021,95.74,OR045961
+Z00861806,This study,Kenya,Gem,Canine,Cosmopolitan AF1a_A1.1,2022,97.78,OR045962
+Z00861807,This study,Kenya,Rarieda,Domestic dog,Cosmopolitan AF1a_C1,2022,97.53,OR045963
+Z00861808,This study,Kenya,Ugunja,Canine,Cosmopolitan AF1a_A1.1,2022,97.21,OR045964
+Z00861810,This study,Kenya,Alego usonga,Domestic dog,Cosmopolitan AF1a_C1,2022,96.66,OR045965
+Z00861811,This study,Kenya,Alego usonga,Canine,Cosmopolitan AF1a_A1.1,2022,97.76,OR045966
+Z00861814,This study,Kenya,Rarieda,Canine,Cosmopolitan_A1.2,2022,"8.20(Removed, low coverage)",OR045967
+Z00861815,This study,Kenya,Alego usonga,Domestic dog,Cosmopolitan AF1a_C1,2022,96.79,OR045968
+Z00861820,This study,Kenya,Rarieda,Domestic dog,Cosmopolitan AF1a_A1.1.2,2022,97.70,OR045969
+Z00861823,This study,Kenya,Rarieda,Canine,Cosmopolitan AF1a_A1.1,2022,97.82,OR045970
+Z00861824,This study,Kenya,Bondo,Domestic dog,Cosmopolitan AF1a_C1,2022,96.44,OR045971
+Z00861826,This study,Kenya,Bondo,Canine,Cosmopolitan AF1a_A1.1,2022,97.70,OR045972
+Z00861827,This study,Kenya,Rarieda,Canine,Cosmopolitan AF1a_A1.1,2022,96.59,OR045973
+Z00861829,This study,Kenya,Bondo,Domestic dog,Cosmopolitan AF1a_C1,2022,97.74,OR045974
+Z00861831,This study,Kenya,Alego usonga,Bovine,Cosmopolitan AF1a_A1.1,2022,97.03,OR045975
+Z00861832,This study,Kenya,Alego usonga,Canine,Cosmopolitan AF1a_A1.1,2022,97.85,OR045976
+Z00861834,This study,Kenya,Alego usonga,Canine,Cosmopolitan AF1a_A1.1,2022,97.70,OR045977
+Z00861835,This study,Kenya,Bondo,Domestic dog,Cosmopolitan AF1a_C1,2022,97.77,OR045978
+Z00861836,This study,Kenya,Bondo,Domestic dog,Cosmopolitan AF1a_A1.1.2,2022,97.73,OR045979
+Z00861837,This study,Kenya,Bondo,Domestic dog,Cosmopolitan AF1a_A1.1,2022,97.78,OR045980
+Z00861838,This study,Kenya,Bondo,Domestic dog,Cosmopolitan AF1a_A1.1,2022,97.76,OR045981
+Z00861839,This study,Kenya,Siaya,Domestic Dog,Cosmopolitan AF1a_A1.1,2021,96.02,OR045982
+Z00861840,This study,Kenya,Siaya,Domestic Dog,Cosmopolitan AF1a_A1.1,2021,95.92,OR045983
+Z00861841,This study,Kenya,South East Alego,Domestic dog,Cosmopolitan AF1a_A1.1,2021,97.76,OR045984
+Z00861843,This study,Kenya,Yimbo East,Domestic Dog,Cosmopolitan AF1a_A1.1,2021,97.67,OR045985
+Z00861844,This study,Kenya,Rarieda,Bovine,Cosmopolitan AF1a_A1.1,2021,95.61,OR045986
+Z00861845,This study,Kenya,Rarieda,Bovine,Cosmopolitan AF1a_A1.1,2021,94.81,OR045987
+Z00861846,This study,Kenya,Rarieda,Bovine,Cosmopolitan AF1a_A1.1,2021,97.79,OR045988
+Z00861850,This study,Kenya,Bondo,Domestic dog,Cosmopolitan AF1a_A1.1,2021,96.68,OR045989
+Z00861851,This study,Kenya,Bondo,Domestic dog,Cosmopolitan AF1a_A1.1,2021,94.51,OR045990
+Z00861852,This study,Kenya,Rarieda,Domestic dog,Cosmopolitan AF1a_A1.1,2021,91.45,OR045991
+Z00861853,This study,Kenya,Bondo,Domestic dog,Cosmopolitan AF1a_A1.1,2021,94.44,OR045992
+Z00861855,This study,Kenya,Bondo,Domestic dog,Cosmopolitan AF1a_A1.1,2021,96.28,OR045993
+Z00861857,This study,Kenya,Rarieda,Bovine,Cosmopolitan AF1a_A1.1,2021,88.13,OR045994
+Z00861858,This study,Kenya,Alego Usonga,Bovine,Cosmopolitan AF1a_A1.1,2021,93.66,OR045995
+Z00861859,This study,Kenya,Rarieda,Domestic dog,Cosmopolitan AF1a_A1.1,2021,94.46,OR045996
+Z00861860,This study,Kenya,Bondo,Domestic dog,Cosmopolitan AF1a_A1.1,2021,94.24,OR045997
+Z00861862,This study,Kenya,Alego Usonga,Domestic dog,,2021,96.04,OR045998
+Z00861863,This study,Kenya,Rarieda,Domestic dog,Cosmopolitan AF1a_A1.1,2021,94.28,OR045999
+Z00861864,This study,Kenya,Rarieda,Domestic dog,Cosmopolitan AF1a_A1.1,2021,96.62,OR046000
+Z00861865,This study,Kenya,Bondo,Domestic dog,Cosmopolitan AF1a_A1.1,2021,91.61,OR046001
+Z00861867,This study,Kenya,Bondo,Domestic dog,Cosmopolitan AF1a_A1.1,2021,96.79,OR046002
+Z00861869,This study,Kenya,Bondo,Domestic dog,Cosmopolitan AF1a_A1.1,2021,97.08,OR046003
+Z00861870,This study,Kenya,Alego Usonga,Domestic dog,Cosmopolitan AF1a_A1.1,2021,97.25,OR046004
+Z00861871,This study,Kenya,Alego Usonga,Bovine,Cosmopolitan AF1a_A1.1,2021,94.51,OR046005
+Z00861872,This study,Kenya,Alego Usonga,Bovine,Cosmopolitan AF1a_A1.1,2021,96.69,OR046006
+Z00861877,This study,Kenya,Bondo,Unknown,Cosmopolitan AF1a_A1.1,2021,94.53,OR046007
+Z00865560,This study,Kenya,Gem,Canine,Cosmopolitan AF1a_A1.1,2022,97.75,OR046008
+Z00865561,This study,Kenya,Rarieda,Canine,Cosmopolitan AF1a_A1.1,2022,97.76,OR046009
+Z00865562,This study,Kenya,Gem,Canine,Cosmopolitan AF1a_A1.1,2022,97.77,OR046010
+Z00865563,This study,Kenya,Rarieda,Canine,Cosmopolitan AF1a_A1.1,2022,96.28,OR046011
+Z00865564,This study,Kenya,Rarieda,Domestic dog,Cosmopolitan AF1a_C1,2022,93.42,OR046012
+Z00865566,This study,Kenya,Rarieda,Domestic dog,Cosmopolitan AF1a_A1.1.2,2022,97.71,OR046013
+Z00865570,This study,Kenya,Alego usonga,Canine,Cosmopolitan AF1a_A1.1,2022,97.80,OR046014
+Z00865571,This study,Kenya,Rarieda,Canine,Cosmopolitan AF1a_A1.1,2022,97.13,OR046015
+Z00881847,This study,Kenya,Bondo,Bovine,Cosmopolitan AF1a_A1.1,2021,,
+Z0826253,This study,Kenya,Gem,Human,Cosmopolitan_A1.2,2018,76.75,OR045959
+Z0826751,This study,Kenya,Muhoroni,Bovine,Cosmopolitan AF1a_A1.1,2018,"Removed, low coverage",
+Z0828879,This study,Kenya,Gem,Human,Cosmopolitan AF1a_A1.1,2018,51.12,OR045960

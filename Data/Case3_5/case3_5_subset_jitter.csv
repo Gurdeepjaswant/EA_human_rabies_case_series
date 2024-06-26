@@ -1,0 +1,73 @@
+ID,species,country,Village,Location,Sub.County,date,latitude,longitude,year,lineage
+MAL1020,Domestic Dog,Tanzania,NA,Malinyi,Mtwara,17/04/2022,-9.053893,36.614229,2022,Cosmopolitan AF1b_A1
+MAL1009,Domestic dog,Tanzania,NA,Malinyi,Morogoro ,09/05/2022,-9.063893,36.624229,2022,Cosmopolitan AF1b_A1
+MAL1008,Domestic Dog,Tanzania,NA,Malinyi,Morogoro ,23/07/2022,-9.073893,36.634229,2022,Cosmopolitan AF1b_A1
+MR008,Goat,Tanzania,NA,Ulanga,Morogoro ,13/11/2018,-8.90886,36.0876,2018,Cosmopolitan AF1b_A1
+MR009,Domestic Dog,Tanzania,NA,Ulanga,Morogoro ,09/02/2019,-8.89886,36.0976,2019,Cosmopolitan AF1b_A1
+RB003,Bovine,Tanzania,NA,Ulanga,Morogoro/Kennedy,01/09/2019,-8.88886,36.1076,2019,Cosmopolitan AF1b_A1
+RB002,Domestic dog,Tanzania,NA,Ulanga,Morogoro/Kennedy,01/09/2019,-8.87886,36.1176,2019,Cosmopolitan AF1b_A1
+MR005,Domestic dog,Tanzania,NA,Ulanga,Morogoro ,13/02/2020,-8.88886,36.1276,2020,Cosmopolitan AF1b_A1
+MR001,Domestic dog,Tanzania,NA,Ulanga,Morogoro ,31/03/2020,-8.89886,36.1376,2020,Cosmopolitan AF1b_A1
+MR006,Domestic dog,Tanzania,NA,Ulanga,Morogoro ,08/05/2020,-8.90886,36.1476,2020,Cosmopolitan AF1b_A1
+KR906763,Livestock: Pig,Tanzania,NA,NA,Ulanga,17/05/2010,-8.68177,36.716557,2010,Cosmopolitan AF1b_A1
+KD1004,Domestic Dog,Tanzania,NA,Kilombero,Morogoro ,11/02/2022,-8.400762,36.559167,2022,Cosmopolitan AF1b_A1
+IFA1023,Domestic Dog,Tanzania,NA,Ifakara,Morogoro ,23/07/2022,-8.410762,36.569167,2022,Cosmopolitan AF1b_A1
+KIL1022,Domestic Dog,Tanzania,NA,Kilombero,Morogoro ,10/08/2022,-8.400762,36.579167,2022,Cosmopolitan AF1b_A1
+IFA1013,Domestic Dog,Tanzania,NA,Ifakara,Morogoro ,08/09/2022,-8.410762,36.589167,2022,Cosmopolitan AF1b_A1
+KR906764,Livestock: Cow,Tanzania,NA,NA,Kilombero,27/09/2010,-8.076282887,37.01688779,2010,Cosmopolitan AF1b_A1
+KR906765,Livestock: Cow,Tanzania,NA,NA,Kilombero,28/09/2010,-8.086282887,37.02688779,2010,Cosmopolitan AF1b_A1
+KR906766,Domestic dog,Tanzania,NA,NA,Chake Chake,26/11/2010,-5.260469,39.815016,2010,Cosmopolitan AF1b_A1
+MN726813,Domestic dog,Tanzania,NA,NA,Micheweni,16/05/2017,-5.009501,39.814855,2017,Cosmopolitan AF1b_A1
+RB004,Domestic Dog,Tanzania,NA,Arusha urban,Arusha,14/04/2021,-3.386925,36.682995,2021,Cosmopolitan AF1b_A1.1
+AR03,Domestic Dog,Tanzania,NA,Arusha urban,Arusha,10/03/2022,-3.396925,36.692995,2022,Cosmopolitan AF1b_A1.1
+SD846,Human,Tanzania,NA,Ngorongoro,Arusha,03/10/2022,-3.060711,35.830041,2022,Cosmopolitan AF1b_A1.1
+HB002,Human,Tanzania,NA,Moshi,Kilimanjaro,16/09/2019,-2.97557,37.3581,2019,Cosmopolitan AF1b_A1.1
+Z0829343,Caprine,Kenya,NA,Nzalubani,Kibwezi East,12/04/2022,-2.5938617,38.0650083,2022,Cosmopolitan AF1b_A1.1
+Z0083204,Domestic dog,Kenya,NA,Kibwezi East,Makueni,17/08/2021,-2.410524,37.967847,2021,Cosmopolitan AF1b_A1.1
+Z0083233,Domestic dog,Kenya ,NA,Kibwezi East,Makueni,24/09/2021,-2.420524,37.977847,2021,Cosmopolitan AF1b_A1.1
+Z0829340,Domestic dog,Kenya,NA,Emali,Kibwezi West,20/04/2022,-2.0574213,37.5267921,2022,Cosmopolitan AF1b_A1.1
+Z0829337,Domestic dog,Kenya,NA,Mbuvo,Makueni,10/05/2022,-2.0353289,37.769492,2022,Cosmopolitan AF1b_A1.1
+Z0829335,Domestic dog,Kenya,NA,Kavuthu,Makueni,16/05/2022,-2.0027478,37.4159767,2022,Cosmopolitan AF1b_A1.1
+Z0829334,Domestic dog,Kenya,NA,Kwa Kavisi,Makueni,04/06/2022,-1.9998655,37.7064121,2022,Cosmopolitan AF1b_A1.1
+Z0083265,Feline,Kenya,NA,Kithuki,Makueni,14/03/2021,-1.968343151,37.88137117,2021,Cosmopolitan AF1b_A1.1
+Z0829344,Caprine,Kenya,NA,Mbuvo,Makueni,30/03/2022,-1.9667191,37.7664408,2022,Cosmopolitan AF1b_A1.1
+Z0829323,Caprine,Kenya,NA,Kyeemundu,Makueni,05/07/2022,-1.9545825,37.477391,2022,Cosmopolitan AF1b_A1.1
+Z0083216,Bovine,Kenya,NA,Kathonzweni,Makueni,18/07/2021,-1.9161016,37.7317411,2021,Cosmopolitan AF1b_A1.1
+Z0083227,Domestic dog,Kenya,NA,Kathonzweni,Makueni,27/09/2021,-1.9151016,37.7417411,2021,Cosmopolitan AF1b_A1.1
+Z0083237,Domestic dog,Kenya,NA,Kathonzweni,Makueni,01/10/2021,-1.9141016,37.7517411,2021,Cosmopolitan AF1b_A1.1
+Z0083243,Domestic dog,Kenya,NA,Kathonzweni,Makueni,18/11/2021,-1.9131016,37.7617411,2021,Cosmopolitan AF1b_A1.1
+Z00832441,Domestic dog,Kenya,NA,Kathonzweni,Makueni,19/11/2021,-1.9141016,37.7717411,2021,Cosmopolitan AF1b_A1.1
+Z00832442,Bovine,Kenya,NA,Kathonzweni,Makueni,21/11/2021,-1.9151016,37.7817411,2021,Cosmopolitan AF1b_A1.1
+Z0083240,Domestic dog,Kenya,NA,Kathonzweni,Makueni,04/12/2021,-1.9161016,37.7917411,2021,Cosmopolitan AF1b_A1.1
+Z00832443,Domestic dog,Kenya,NA,Kathonzweni,Makueni,18/11/2021,-1.90833346,37.7243881,2021,Cosmopolitan AF1b_A1.1
+Z0083263,Domestic dog,Kenya,NA,Muvau,Makueni,25/02/2022,-1.904419027,37.64380591,2022,Cosmopolitan AF1b_A1.1
+Z0083262,Domestic dog,Kenya,NA,Kathonzweni,Makueni,25/02/2022,-1.900881571,37.73942683,2022,Cosmopolitan AF1b_A1.1
+KR906775,Domestic dog,Tanzania,NA,NA,Serengeti,25/09/2011,-1.899046,34.659015,2011,Cosmopolitan AF1b_A1.1
+Z0829325,Domestic dog,Kenya,NA,Kathonzweni,Makueni,15/06/2022,-1.8841657,37.7251635,2022,Cosmopolitan AF1b_A1.1
+Z0829341,Domestic dog,Kenya,NA,Muvau,Makueni,23/04/2022,-1.8823492,37.6005636,2022,Cosmopolitan AF1b_A1.1
+KY210275,Livestock: Cow,Tanzania,NA,NA,Serengeti,04/09/2013,-1.85288,34.79636,2013,Cosmopolitan AF1b_A1.1
+Z0083249,Caprine,Kenya,NA,Kanthuni,Makueni,14/02/2022,-1.851837756,37.88033534,2022,Cosmopolitan AF1b_A1.1
+Z0083261,Caprine,Kenya,NA,Muvau,Makueni,01/03/2022,-1.8516625,37.6547936,2022,Cosmopolitan AF1b_A1.1
+Z0829333,Bovine,Kenya,NA,Mukaa,Kilome ,03/06/2022,-1.8189811,37.3369929,2022,Cosmopolitan AF1b_A1.1
+Z0083220,Domestic dog,Kenya,NA,Makueni,Makueni,05/08/2021,-1.849008071,37.59439993,2021,Cosmopolitan AF1b_A1.1
+Z0083218,Domestic dog,Kenya,NA,Makueni,Makueni,10/08/2021,-1.839008071,37.60439993,2021,Cosmopolitan AF1b_A1.1
+Z0083219,Feline,Kenya,NA,Makueni,Makueni,10/08/2021,-1.829008071,37.61439993,2021,Cosmopolitan AF1b_A1.1
+Z0083221,Domestic dog,Kenya,NA,Makueni,Makueni,11/08/2021,-1.819008071,37.62439993,2021,Cosmopolitan AF1b_A1.1
+Z0083228,Domestic dog,Kenya,NA,Makueni,Makueni,01/09/2021,-1.809008071,37.63439993,2021,Cosmopolitan AF1b_A1.1
+Z0083239,Bovine,Kenya,NA,Makueni,Makueni,13/09/2021,-1.799008071,37.64439993,2021,Cosmopolitan AF1b_A1.1
+Z0083225,Domestic dog,Kenya,NA,Makueni,Makueni,27/09/2021,-1.809008071,37.63439993,2021,Cosmopolitan AF1b_A1.1
+Z0083205,Domestic dog,Kenya ,NA,Makueni,Makueni,13/04/2021,-1.819008071,37.62439993,2021,Cosmopolitan AF1b_A1.1
+Z0083229,Domestic dog,Kenya ,NA,Makueni,Makueni,01/09/2021,-1.829008071,37.61439993,2021,Cosmopolitan AF1b_A1.1
+Z0083223,Caprine,Kenya ,NA,Makueni,Makueni,02/09/2021,-1.839008071,37.60439993,2021,Cosmopolitan AF1b_A1.1
+Z0083224,Domestic dog,Kenya ,NA,Makueni,Makueni,03/09/2021,-1.849008071,37.59439993,2021,Cosmopolitan AF1b_A1.1
+Z0829313,Domestic dog,Kenya,NA,Kikoko,Kaiti,22/08/2022,-1.798023,37.3693556,2022,Cosmopolitan AF1b_A1.1
+Z0083192,Domestic dog,Kenya,NA,makueni,Makueni,17/12/2020,-1.816495,37.631107,2020,Cosmopolitan AF1b_A1.1
+Z0083236,Domestic dog,Kenya,NA,makueni,Makueni,13/10/2021,-1.806495,37.641107,2021,Cosmopolitan AF1b_A1.1
+Z0083245,Domestic dog,Kenya,NA,makueni,Makueni,05/11/2021,-1.796495,37.651107,2021,Cosmopolitan AF1b_A1.1
+Z0083235,Domestic dog,Kenya,NA,makueni,Makueni,29/11/2021,-1.786495,37.661107,2021,Cosmopolitan AF1b_A1.1
+Z0083252,Goat,Kenya,NA,makueni,Makueni,29/12/2021,-1.796495,37.671107,2021,Cosmopolitan AF1b_A1.1
+Z0083253,Domestic dog,Kenya,NA,makueni,Makueni,30/12/2021,-1.806495,37.681107,2021,Cosmopolitan AF1b_A1.1
+SD743,Domestic dog,Tanzania,NA,Serengeti ,Mara ,22/03/2019,-1.730158674,34.4964275,2019,Cosmopolitan AF1b_A1.1
+Z0083214,Caprine,Kenya,NA,Mbooni East,Makueni,02/07/2021,-1.667077,37.4615,2021,Cosmopolitan AF1b_A1.1
+Z0083231,Domestic dog,Kenya,NA,Mbooni East,Makueni,09/08/2021,-1.677077,37.4715,2021,Cosmopolitan AF1b_A1.1
+Z0083226,Domestic dog,Kenya,NA,Kibwezi West,Makueni,24/09/2021,-0.022929853,34.12224665,2021,Cosmopolitan AF1b_A1.1
