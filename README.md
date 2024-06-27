@@ -29,7 +29,7 @@ mafft  /path/to/consensus/*.fasta > aligned_sequences.fasta
 ```
 d) Maximum likelihood trees were built using IQTREE2 with model selection and 1000 ultrafast bootstrap replicates.
 ```bash
-iqtree2 -s aligned_sequences.fasta -m MFP -bb 1000 -alrt 1000 -nt AUTO
+iqtree -s aligned_sequences.fasta -bb 1000 -alrt 1000
 ```
 e) Patristic distances were calculated using the get_pairwise_distances function from the R package castor.Trees of widespread lineages were checked to identify potential incursions relevant to human cases.
 -distance_to_time.r
