@@ -23,16 +23,21 @@ This paper combines epidemiological and genomic analyses briefly described below
 3. Phylogenetic analysis
 a) RABV-GLUE was used for major and minor clade assignment (http://rabv-glue.cvr.gla.ac.uk/#/rabvFastaAnalysis)
 b) More resolved lineage designation was done using MADDOG, sequenced viruses were classified using the nomenclature <Major clade Minor clade_Lineage>, e.g., Cosmopolitan AF1a_A1.1. The MAD DOG tool is publically available as a command line tool and an R package and on github (https://github.com/KathrynCampbell/MADDOG.git)
+
 c) Publicly available sequences from identified lineages were obtained from RABV-GLUE and aligned with newly generated sequences using the MAFFT FFT-NS-2 algorithm.
 ```bash
 mafft  /path/to/consensus/*.fasta > aligned_sequences.fasta
 ```
+
 d) Maximum likelihood trees were built using IQTREE2 with model selection and 1000 ultrafast bootstrap replicates.
 ```bash
 iqtree -s aligned_sequences.fasta -bb 1000
 ```
+
 e) Patristic distances were calculated using the get_pairwise_distances function from the R package castor.Trees of widespread lineages were checked to identify potential incursions relevant to human cases.
 -distance_to_time.r
+
 f) Locations of cases were mapped using precise coordinates where available, with village or county centroids jittered for mapping if exact coordinates were unavailable.
+
 -Figure2.R
 -Figure3.R
