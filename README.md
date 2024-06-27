@@ -16,14 +16,13 @@ Rabies remains a major public health problem in East Africa where the disease is
 ## Methods
 This paper combines epidemiological and genomic analyses briefly described below:
 
-1. Amplicon-based sequencing was conducted following a previously established protocol available online (https://app.jove.com/b/65414/a-cost-effective-genomic-workflow-for-advancing-rabies-control)
+1. Amplicon-based sequencing was conducted following a previously established [protocol](https://app.jove.com/b/65414/a-cost-effective-genomic-workflow-for-advancing-rabies-control)
 
-2. Bioinformatics - A RABV-tailored version of the ARTIC network’s bioinformatics pipeline was applied to process raw MinION reads (https://wellcomeopenresearch.org/articles/5-3/v2)
+2. Bioinformatics - [A RABV-tailored version](https://wellcomeopenresearch.org/articles/5-3/v2) of the ARTIC network’s bioinformatics pipeline was applied to process raw MinION reads 
 
 3. Phylogenetic analysis
-a) RABV-GLUE was used for major and minor clade assignment (http://rabv-glue.cvr.gla.ac.uk/#/rabvFastaAnalysis)
-b) More resolved lineage designation was done using MADDOG, sequenced viruses were classified using the nomenclature <Major clade Minor clade_Lineage>, e.g., Cosmopolitan AF1a_A1.1. The MAD DOG tool is publically available as a command line tool and an R package and on github (https://github.com/KathrynCampbell/MADDOG.git)
-
+a) [RABV-GLUE](http://rabv-glue.cvr.gla.ac.uk/#/rabvFastaAnalysis) was used for major and minor clade assignment 
+b) More resolved lineage designation was done using [MADDOG](https://github.com/KathrynCampbell/MADDOG.git), sequenced viruses were classified using the nomenclature <Major clade Minor clade_Lineage>, e.g., Cosmopolitan AF1a_A1.1. The MAD DOG tool is publically available as a command line tool and an R package and on github 
 c) Publicly available sequences from identified lineages were obtained from RABV-GLUE and aligned with newly generated sequences using the MAFFT FFT-NS-2 algorithm.
 ```bash
 mafft  /path/to/consensus/*.fasta > aligned_sequences.fasta
