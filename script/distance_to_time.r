@@ -1,5 +1,6 @@
 rm(list=ls())
 
+
 distances<-data.frame(case = c("1","2","2","3","3","4","5"), 
                       relative = c("before","before", "after","before", "after","before","before"), 
                       distance = c(0.030927,0.002871885,0.007033073,0.003376,0.002090,0.001961,0.002667), 
