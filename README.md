@@ -5,7 +5,7 @@ Public repository for manuscript by: Gurdeep Jaswant*, Kathryn Campbel*, Anna Cz
 
 This repository contains all the code and de-identified data in this study.
 
-Analyses were undertaken using R version 4.3.0 (2023-04-21).
+Analyses were undertaken using R version 4.3.0.
 Code and analyses take minutes to run. 
 Additional details on genetic data and alignments etc undertaken outside of R are detailed in the methods.
 
