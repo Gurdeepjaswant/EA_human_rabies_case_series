@@ -47,5 +47,6 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
-# OSx specific files
-.DS_*
+
+# Annoying Mac files
+*.DS_Store

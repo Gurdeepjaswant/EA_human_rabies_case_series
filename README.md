@@ -16,8 +16,23 @@ Rabies remains a major public health problem in East Africa where the disease is
 ## Methods
 This paper combines epidemiological and genomic analyses briefly described below:
 
-### Phylogenetic analysis
-1. Trees were generated from publicly available data downloaded from [RABV-GLUE](http://rabv-glue.cvr.gla.ac.uk/#/home) and new sequences generated as part of this study available on Genbank. The sequence data and associated metadata is available in the data folder.
-2. Data were processed as follows:
-   xxxxxxxxx
-    
+1. Amplicon-based sequencing was conducted following a previously established protocol available online (https://app.jove.com/b/65414/a-cost-effective-genomic-workflow-for-advancing-rabies-control)
+
+2. Bioinformatics - A RABV-tailored version of the ARTIC network’s bioinformatics pipeline6 was applied to process raw MinION reads (https://wellcomeopenresearch.org/articles/5-3/v2)
+
+3. Phylogenetic analysis
+a) RABV-GLUE was used for major and minor clade assignment (http://rabv-glue.cvr.gla.ac.uk/#/rabvFastaAnalysis)
+b) More resolved lineage designation was done using MADDOG, sequenced viruses were classified using the nomenclature <Major clade Minor clade_Lineage>, e.g., Cosmopolitan AF1a_A1.1. public available on github (https://github.com/KathrynCampbell/MADDOG.git)
+c) Publicly available sequences from identified lineages were obtained from RABV-GLUE and aligned with newly generated sequences using the MAFFT FFT-NS-2 algorithm.
+```bash
+mafft  /path/to/consensus/*.fasta > aligned_sequences.fasta
+```
+d) Maximum likelihood trees were built using IQTREE2 with model selection and 1000 ultrafast bootstrap replicates.
+```bash
+iqtree2 -s aligned_sequences.fasta -m MFP -bb 1000 -alrt 1000 -nt AUTO
+```
+e) Patristic distances were calculated using the get_pairwise_distances function from the R package castor.Trees of widespread lineages were checked to identify potential incursions relevant to human cases.
+-distance_to_time.r
+f) Locations of cases were mapped using precise coordinates where available, with village or county centroids jittered for mapping if exact coordinates were unavailable.
+-Figure2.R
+-Figure3.R
