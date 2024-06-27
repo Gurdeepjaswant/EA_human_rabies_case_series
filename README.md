@@ -40,6 +40,6 @@ e) Patristic distances were calculated using the get_pairwise_distances function
 
 f) Locations of cases were mapped using precise coordinates where available, with village or county centroids jittered for mapping if exact coordinates were unavailable.
 
--Figure2.R
+[Figure2.R](https://github.com/Gurdeepjaswant/EA_human_rabies_case_series/blob/main/script/Figure2.R)
 
--Figure3.R
+[Figure3.R](https://github.com/Gurdeepjaswant/EA_human_rabies_case_series/blob/main/script/Figure3.R)
