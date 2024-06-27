@@ -18,7 +18,7 @@ This paper combines epidemiological and genomic analyses briefly described below
 
 1. Amplicon-based sequencing was conducted following a previously established [protocol](https://app.jove.com/b/65414/a-cost-effective-genomic-workflow-for-advancing-rabies-control)
 
-2. Bioinformatics - [A RABV-tailored version](https://wellcomeopenresearch.org/articles/5-3/v2) of the ARTIC network’s bioinformatics pipeline was applied to process raw MinION reads 
+2. Bioinformatics - [A RABV-tailored version](https://github.com/kirstyn/artic-rabv) of the ARTIC network’s bioinformatics pipeline was applied to process raw MinION reads 
 
 3. Phylogenetic analysis
 a) [RABV-GLUE](http://rabv-glue.cvr.gla.ac.uk/#/rabvFastaAnalysis) was used for major and minor clade assignment 
