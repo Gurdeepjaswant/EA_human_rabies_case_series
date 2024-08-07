@@ -19,7 +19,7 @@ library(ggsci)
 library(ggspatial)
 library(grid)
 library(gridExtra) 
-
+library(tidyverse)
 # Data
 tree <- ape::read.nexus("Data/All_cases_combined/updated.nex") # phylogeny
 metadata <- read.csv("Data/All_cases_combined/all_combined_supplimentary_table.csv") # metadata
@@ -38,11 +38,21 @@ lineage_info$colour <- pal_startrek("uniform")(4) # c("yellow","blue","green","r
 # Set up plotting 
 human_cases <- grep(c("Z0826253|Z0828879|HB002|2021153276|SD846"), metadata$ID) # cases 1,2,3,4,5
 metadata$tipshape <- "animal"; metadata$tipshape[human_cases] <- "human" # use large cross for human cases
-metadata$tiplab <- ""; metadata$tiplab[human_cases] <- c("2018/02/27", "2018/07/18", "2019/09/16", "2022/08/29", "2022/09/08") # human case dates
 metadata$tipsize <- 1.2; metadata$tipsize[human_cases] <- 2 # use large cross for human cases
 metadata$cases <- metadata$case; metadata$cases[which(metadata$case == "3_5")] <- "3 & 5"
 # metadata$alpha <- .8; metadata$alpha[human_cases] <- 1 
-
+# Apply date to the tips
+metadata <- metadata %>%
+  dplyr::mutate(
+    tiplab = case_when(
+      ID == "Z0826253" ~ "2018/02/27",
+      ID == "Z0828879" ~ "2018/07/18",
+      ID == "HB002" ~ "2019/09/16",
+      ID == "2021153276" ~ "2022/08/29",
+      ID == "SD846" ~ "2022/10/03",
+      TRUE ~ ""
+    )
+  )
 #------------------------------------------------
 #TREE
 
@@ -141,6 +151,6 @@ eafrica
 
 # Save as a 3 panel plot
 fig2 <- africa_map + eafrica + main_tree + plot_layout(widths = c(1.1, .75, .95)); fig2
-
+fig2<-fig2+plot_annotation(tag_levels = 'A')
 ggsave("Figs/fig2_phylogeny_map.pdf", plot = fig2, width = 11, height = 6, units="in")
 
