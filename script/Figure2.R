@@ -20,6 +20,7 @@ library(ggspatial)
 library(grid)
 library(gridExtra) 
 library(tidyverse)
+
 # Data
 tree <- ape::read.nexus("Data/All_cases_combined/updated.nex") # phylogeny
 metadata <- read.csv("Data/All_cases_combined/all_combined_supplimentary_table.csv") # metadata
@@ -45,14 +46,26 @@ metadata$cases <- metadata$case; metadata$cases[which(metadata$case == "3_5")] <
 metadata <- metadata %>%
   dplyr::mutate(
     tiplab = case_when(
-      ID == "Z0826253" ~ "2018/02/25",
-      ID == "Z0828879" ~ "2018/07/08",
-      ID == "HB002" ~ "2019/09/16",
-      ID == "2021153276" ~ "2022/08/29",
-      ID == "SD846" ~ "2022/10/03",
+      ID == "Z0826253" ~ "1", # OR045959
+      ID == "Z0828879" ~ "2", # OR045960
+      ID == "HB002" ~ "3", # OR920212
+      ID == "2021153276" ~ "4", # OR045927
+      ID == "SD846" ~ " 5", # OR045947
       TRUE ~ ""
     )
   )
+
+# metadata <- metadata %>%
+#   dplyr::mutate(
+#     tiplab = case_when(
+#       ID == "Z0826253" ~ "2018-02-27", 
+#       ID == "Z0828879" ~ "2018-07-18",
+#       ID == "HB002" ~ "2019-09-16",
+#       ID == "2021153276" ~ "2022-08-29",
+#       ID == "SD846" ~ "2022-10-03",
+#       TRUE ~ ""
+#     )
+#   )
 #------------------------------------------------
 #TREE
 
@@ -68,19 +81,21 @@ node_labels[c(266)]<-"97"
 # Full tree with annotations
 main_tree <- main_tree +
   ggtree::geom_tippoint(aes(fill = factor(cases), shape = factor(tipshape), size = tipsize), color = "grey50") +
-  scale_fill_manual("Closest relatives:", guide = "legend",values=c(lineage_info$colour), 
-                    labels = c("Case 1", "Case 2", "Case 3 & 5", "Case 4")) +
+#  scale_fill_manual("", guide = "legend",values=c(lineage_info$colour), labels = c("1", "2", "3 & 5", "4")) +
+  scale_fill_manual("", guide = "legend",values=c(lineage_info$colour), 
+                    labels = c("AF1b_A2", "AF1a_A1.1", "AF1b_A1.1", "AF1a_C1")) +
   scale_shape_manual(values = c("human" = 23, "animal" = 21))+
-  ggtree::geom_text(aes(label=tiplab), hjust=-.2, vjust=0.7, size=1.7, col = "grey30") +
-  geom_text(aes(label=node_labels), hjust=-.2, size = 1.7, col = "grey30") +
+  ggtree::geom_text(aes(label=tiplab), hjust=-1.5, vjust= 0.7, size=2.5, col = "grey30") +
+  geom_text(aes(label=node_labels), hjust=1.2, vjust=-0.7, size = 2.5, col = "grey30") +
   # ggtree::geom_tiplab(aes(color = tiplab)) +
   # ggtree::geom_tiplab(offset = .6, hjust = .5) +
   scale_size_continuous(range = c(1, 2.5)) +
   geom_treescale(x = 0.03, y = -15, offset = 3, linesize = 0.25, fontsize = 4) + 
   coord_cartesian(clip="off") +
-  guides(fill = guide_legend(override.aes = list(shape = 21), title = "Closest relatives:", nrow=2, byrow=TRUE),
-         shape = guide_legend(title = "Case type:", nrow=2, byrow=TRUE),
-         size = "none") +
+  # guides(fill = guide_legend(override.aes = list(shape = 21), title = "lineage:", nrow=2, byrow=TRUE),
+  #        shape = guide_legend(title = "case:", nrow=2, byrow=TRUE), size = "none") +
+  guides(fill = guide_legend(override.aes = list(shape = 21), title = "lineage:", nrow=1, byrow=TRUE),
+         shape = "none", size = "none") +
   theme(plot.margin = unit(c(14,8,13,8), "mm")) +
   theme(legend.key.size = unit(1,"line"), # change legend key size, title & font size
         legend.title = element_text(size=10), 
@@ -148,9 +163,29 @@ eafrica <- ggplot(data = world) +
         legend.position="none") 
 eafrica
 ## ggsave("Figs/east_africa_map.pdf", eafrica, width = 4, height = 6, units="in")
+# 3 panel plot
+# fig2 <- africa_map + eafrica + main_tree + plot_layout(widths = c(1.1, .8, .95)); 
+# 2 panel plot
+fig2 <- eafrica + main_tree + plot_layout(widths = c(.9, .95)); 
+fig2
+fig2 <- fig2 + plot_annotation(tag_levels = 'A')
+ggsave("Figs/fig2_phylogeny_map.pdf", plot = fig2, width = 7, height = 6, units="in")
 
-# Save as a 3 panel plot
-fig2 <- africa_map + eafrica + main_tree + plot_layout(widths = c(1.1, .75, .95)); fig2
-fig2<-fig2+plot_annotation(tag_levels = 'A')
-ggsave("Figs/fig2_phylogeny_map.pdf", plot = fig2, width = 11, height = 6, units="in")
+
+eafrica_blank <- ggplot(data = world) +
+  geom_sf() +
+  coord_sf(xlim = c(29, 41.7), ylim = c(-12, 5.5), expand = FALSE) +
+  geom_text(data = countries, aes(x = long, y = lat, label = name)) + 
+  theme_bw() + 
+  theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(), 
+        panel.border = element_blank(), 
+        axis.text.x =element_blank(), axis.text.y =element_blank(),
+        axis.ticks.x =element_blank(), axis.ticks.y =element_blank(),
+        axis.title.x = element_blank(), axis.title.y = element_blank(),
+        legend.position="none") 
+eafrica_blank
+ggsave("Figs/east_africa_blank_map.pdf", eafrica_blank, width = 4, height = 6, units="in")
+
+
+
 
