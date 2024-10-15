@@ -1,5 +1,7 @@
 # Molecular characterisation of human rabies in Tanzania and Kenya: a case series report and phylogenetic investigation
 Repository for: Jaswant *et al*. *Infectious Diseases of Poverty* 2024 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13934433.svg)](https://doi.org/10.5281/zenodo.13934433)
+
+
 Gurdeep Jaswant*, Kathryn Campbell*, Anna Czupryna, Athman Mwatondo, Brian Ogoti, Carmen W.E. Embregts, Corine H. GeurtsvanKessel, Charles Kayuki, Davis Kuchaka, Gati Wambura, James Oigo, Joel Changalucha, Julius O. Oyugi, Kennedy Lushasi, Lwitiko Sikana, Marco van Zwetselaar, Marieke C.J. Dekker, Mathew Muturi, Marybeth Maritim, Mumbua Mutunga, Rowan Durrant, Tom Abala, Veronicah Chuchu, Kirstyn Brunker*, S.M. Thumbi* & Katie Hampson*
 
 *Equal contributions 
