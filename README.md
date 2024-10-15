@@ -1,7 +1,7 @@
-# Molecular characterisation of human rabies in East Africa - a case series report and phylogenetic investigation
+# Molecular characterisation of human rabies in Tanzania and Kenya: a case series report and phylogenetic investigation
 Public repository for manuscript by: Gurdeep Jaswant*, Kathryn Campbell*, Anna Czupryna, Athman Mwatondo, Brian Ogoti, Carmen W.E. Embregts, Corine H. GeurtsvanKessel, Charles Kayuki, Davis Kuchaka, Gati Wambura, James Oigo, Joel Changalucha, Julius O. Oyugi, Kennedy Lushasi, Lwitiko Sikana, Marco van Zwetselaar, Marieke C.J. Dekker, Mathew Muturi, Marybeth Maritim, Mumbua Mutunga,, Rowan Durrant,  Tom Abala, Veronicah Chuchu,  Kirstyn Brunker*,  S.M. Thumbi*,  Katie Hampson*
 
-*Equal contributions
+*Equal contributions [![DOI](https://zenodo.org/badge/820608551.svg)](https://doi.org/10.5281/zenodo.13933647)
 
 This repository contains all the code and de-identified data in this study.
 
